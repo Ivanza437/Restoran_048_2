@@ -54,4 +54,4 @@ Halaman Edit/Delete Data. disini merupakan halaman edit dan delete data pada hal
 Halaman Jika Data Di Delete, Pada halaman ini setelah data yang sudah saya inputkan dihapus maka halaman akan menjadi halaman kosong lagi seperti semula
 
 
-<img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Edit%20Dan%20Delete%20Menu.png" width="300" height="600">
+<img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Utama%20(kosong).png" width="300" height="600">
