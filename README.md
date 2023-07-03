@@ -1,7 +1,7 @@
 # Restoran_048
  Percobaan Part 2
 
-halaman utama menampilkan empty state jika data kosong
+Halaman Utama Defaut Kosong Karena belum diisi data apapun, disini admin bisa memasukan data lewat icon (+) "Tambah" Pada Pojok Kanan bawah
 
 
 
@@ -43,6 +43,15 @@ Halaman Utama Setelah Di Data Sudah Di inputkan/Di isi
 
 Halaman Edit/Delete Data
 
+
 <img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Edit%20Dan%20Delete%20Menu.png" width="300" height="600">
 
 
+
+
+
+
+Halaman Jika Data Di Delete
+
+
+<img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Edit%20Dan%20Delete%20Menu.png" width="300" height="600">
