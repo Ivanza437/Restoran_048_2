@@ -22,7 +22,7 @@ Halaman Insert Data Menu Restoran. Pada halaman Ini Admin Dapat Menginput 3 Data
 
 
 
-Halaman Insert data setelah diisi data. Disini saya menginputkan data : "American Burger", "Makanan", Dan "50.000"
+Halaman Insert Data Setelah Diisi Data. Disini saya menginputkan data : "American Burger", "Makanan", Dan "50.000"
 
 
 <img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Insert%20Menu%202.png" width="300" height="600">
