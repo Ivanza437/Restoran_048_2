@@ -31,7 +31,7 @@ Halaman Insert data setelah diisi data. Disini saya menginputkan data : "America
 
 
 
-Halaman Utama Setelah Di Data Sudah Di inputkan/Di isi. Disini merupakan halaman utama yang tadi kosong karena saya barusan memasukan data makan data yang sudah saya inputkan akan otomatis tampil di menu halaman utama
+Halaman Utama Setelah Di Data Sudah Di inputkan/Di isi. Disini merupakan halaman utama yang tadi kosong karena saya barusan memasukan data maka data yang sudah saya inputkan akan otomatis tampil di menu halaman utama
 
 
 <img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Utama%20(setelah%20input%20data).png" width="300" height="600">
