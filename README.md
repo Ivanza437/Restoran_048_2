@@ -41,7 +41,7 @@ Halaman Utama Setelah Di Data Sudah Di inputkan/Di isi. Disini merupakan halaman
 
 
 
-Halaman Edit/Delete Data. disini merupakan halaman edit dan delete data pada halaman ini saya dapat menghapus dan merubah data yang saya inginkan disini saya melakukan penghapusan/delete data
+Halaman Edit/Delete Data. disini merupakan halaman edit dan delete data pada halaman ini saya dapat menghapus dan merubah data yang saya inginkan, disini saya melakukan penghapusan/delete data
 
 
 <img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Edit%20Dan%20Delete%20Menu.png" width="300" height="600">
@@ -51,7 +51,7 @@ Halaman Edit/Delete Data. disini merupakan halaman edit dan delete data pada hal
 
 
 
-Halaman Jika Data Di Delete, pada halaman ini setelah data yang sudah saya inputkan dihapus maka halaman akan menjadi halaman kosong lagi seperti semula
+Halaman Jika Data Di Delete, Pada halaman ini setelah data yang sudah saya inputkan dihapus maka halaman akan menjadi halaman kosong lagi seperti semula
 
 
 <img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Edit%20Dan%20Delete%20Menu.png" width="300" height="600">
